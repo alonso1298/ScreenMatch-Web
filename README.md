@@ -92,14 +92,6 @@ Abre el archivo `index.html` del repositorio `ScreenMatch-Web` directamente en t
 
 ---
 
-## 👨🏻‍💻 Autor
-
-**Alonso Sagrero Granados**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/alonso-sagrero-granados-54982228a/)  
-✉️ alonsosagrero18@aragon.unam.mx
-
----
-
 ## 📝 Licencia
 
 Este proyecto se desarrolla con fines educativos. Eres libre de revisarlo, probarlo y adaptarlo para tus propios aprendizajes.
