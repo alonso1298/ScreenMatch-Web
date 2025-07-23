@@ -3,6 +3,13 @@
 
 Bienvenido a **ScreenMatch**, una aplicación web completa construida con **Spring Boot** en el backend y tecnologías web modernas en el **frontend**. Este proyecto fue desarrollado como parte de mi aprendizaje en Java y desarrollo web fullstack.
 
+## 🏠 Inicio de la pagina
+![Screenshot of home from the page ](https://github.com/alonso1298/ScreenMatch-Web/blob/44f795bd2aa5b0153c4dad85577c8a4c3e493e10/img/inicio.png)
+
+## 🔎 Explora por serie
+
+![Screenshot of serie from the page ](https://github.com/alonso1298/ScreenMatch-Web/blob/44f795bd2aa5b0153c4dad85577c8a4c3e493e10/img/serie.png)
+
 ## 🚀 Descripción
 
 **ScreenMatch** es una plataforma para explorar y gestionar series de televisión. El sistema permite consultar información detallada de series como título, géneros, número de temporadas, evaluación, póster y sinopsis.
